@@ -1,0 +1,17 @@
+
+<네트워크 프로그래밍>
+
+ TCP (Transmission Control Protocol)
+	지속성, 연결기반 프로토콜
+	1대1 통신
+	바이트 스트림 전송
+	신뢰성 보장, 속도 다소 느림
+ 
+ UDP (User Datagram Protocol)
+	단발성, 비연결 기반 프로토콜
+	1대다 통신
+	메시지(패킷) 단위 전송
+	신뢰성 X, 속도 빠름
+	
+URL (Uniform Resource Locator)
+	주소 - URL 클래스 제공
